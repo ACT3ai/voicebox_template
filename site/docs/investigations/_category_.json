@@ -1,0 +1,5 @@
+{
+  "label": "Investigations",
+  "position": 4,
+  "link": { "type": "doc", "id": "investigations/overview" }
+}

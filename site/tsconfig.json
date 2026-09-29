@@ -1,0 +1,8 @@
+{
+  // Not used in compilation; here for editor support.
+  "extends": "@docusaurus/tsconfig",
+  "compilerOptions": {
+    "baseUrl": "."
+  },
+  "exclude": [".docusaurus", "build"]
+}
